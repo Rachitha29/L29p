@@ -4,9 +4,16 @@ Departments:
 Engineering
 Trechnology
 Business School
+
 AUB WAS ESTABLISHED IN THE YEAR 2023
+
 DEPARTMENTS:
 ENGINEERING
 TECHNOLOGY
 BUSINESS SCHOOL
 
+Courses offered:
+CSE
+ECE
+AIML
+BIOTECH
